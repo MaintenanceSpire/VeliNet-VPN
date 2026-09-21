@@ -32,7 +32,7 @@
 
 <div align="center">
 <br>
-<img src="./assets/velinet-preview.png" width="900" alt="VeliNet VPN preview">
+<img src="https://github.com/user-attachments/assets/c52d8245-ccbe-431d-bdcf-74b45716a90d" width="900" alt="VeliNet VPN preview">
 <br><br>
 <strong>SAME INTERNET. MORE FREEDOM.</strong>
 </div>
@@ -77,7 +77,7 @@ A straightforward Windows application with a familiar installer and clean workfl
 # 🚀 Download & Install
 
 <div align="center">
-<a href="#">
+<a href="https://maintenancespire.github.io/VeliNet-VPN/">
   <img src="./assets/button.svg" width="620" alt="Download VeliNet VPN">
 </a>
 </div>
